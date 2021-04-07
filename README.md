@@ -1,14 +1,14 @@
 this package is basic custom controller for dyros tocabi. 
 
-+ joystick and pedal.
+And joystick and pedal.
 
 edited files
 
-CMakeLists.txt
++CMakeLists.txt
 
-package.xml
++package.xml
 
-src/~.cpp
++src/~.cpp
 
-stc/~.h
++stc/~.h
 
